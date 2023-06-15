@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\ElementaryOpe\ElementaryOpe\bin\Debug\net6.0\ElementaryOpe.exe
+C:\Users\Home\source\repos\ElementaryOpe\ElementaryOpe\bin\Debug\net6.0\ElementaryOpe.deps.json
+C:\Users\Home\source\repos\ElementaryOpe\ElementaryOpe\bin\Debug\net6.0\ElementaryOpe.runtimeconfig.json
+C:\Users\Home\source\repos\ElementaryOpe\ElementaryOpe\bin\Debug\net6.0\ElementaryOpe.dll
+C:\Users\Home\source\repos\ElementaryOpe\ElementaryOpe\bin\Debug\net6.0\ElementaryOpe.pdb
+C:\Users\Home\source\repos\ElementaryOpe\ElementaryOpe\obj\Debug\net6.0\ElementaryOpe.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\ElementaryOpe\ElementaryOpe\obj\Debug\net6.0\ElementaryOpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\ElementaryOpe\ElementaryOpe\obj\Debug\net6.0\ElementaryOpe.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\ElementaryOpe\ElementaryOpe\obj\Debug\net6.0\ElementaryOpe.AssemblyInfo.cs
+C:\Users\Home\source\repos\ElementaryOpe\ElementaryOpe\obj\Debug\net6.0\ElementaryOpe.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ElementaryOpe\ElementaryOpe\obj\Debug\net6.0\ElementaryOpe.dll
+C:\Users\Home\source\repos\ElementaryOpe\ElementaryOpe\obj\Debug\net6.0\refint\ElementaryOpe.dll
+C:\Users\Home\source\repos\ElementaryOpe\ElementaryOpe\obj\Debug\net6.0\ElementaryOpe.pdb
+C:\Users\Home\source\repos\ElementaryOpe\ElementaryOpe\obj\Debug\net6.0\ElementaryOpe.genruntimeconfig.cache
+C:\Users\Home\source\repos\ElementaryOpe\ElementaryOpe\obj\Debug\net6.0\ref\ElementaryOpe.dll

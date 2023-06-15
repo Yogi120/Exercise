@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\GreaterThird\GreaterThird\bin\Debug\net6.0\GreaterThird.exe
+C:\Users\Home\source\repos\GreaterThird\GreaterThird\bin\Debug\net6.0\GreaterThird.deps.json
+C:\Users\Home\source\repos\GreaterThird\GreaterThird\bin\Debug\net6.0\GreaterThird.runtimeconfig.json
+C:\Users\Home\source\repos\GreaterThird\GreaterThird\bin\Debug\net6.0\GreaterThird.dll
+C:\Users\Home\source\repos\GreaterThird\GreaterThird\bin\Debug\net6.0\GreaterThird.pdb
+C:\Users\Home\source\repos\GreaterThird\GreaterThird\obj\Debug\net6.0\GreaterThird.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\GreaterThird\GreaterThird\obj\Debug\net6.0\GreaterThird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\GreaterThird\GreaterThird\obj\Debug\net6.0\GreaterThird.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\GreaterThird\GreaterThird\obj\Debug\net6.0\GreaterThird.AssemblyInfo.cs
+C:\Users\Home\source\repos\GreaterThird\GreaterThird\obj\Debug\net6.0\GreaterThird.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\GreaterThird\GreaterThird\obj\Debug\net6.0\GreaterThird.dll
+C:\Users\Home\source\repos\GreaterThird\GreaterThird\obj\Debug\net6.0\refint\GreaterThird.dll
+C:\Users\Home\source\repos\GreaterThird\GreaterThird\obj\Debug\net6.0\GreaterThird.pdb
+C:\Users\Home\source\repos\GreaterThird\GreaterThird\obj\Debug\net6.0\GreaterThird.genruntimeconfig.cache
+C:\Users\Home\source\repos\GreaterThird\GreaterThird\obj\Debug\net6.0\ref\GreaterThird.dll

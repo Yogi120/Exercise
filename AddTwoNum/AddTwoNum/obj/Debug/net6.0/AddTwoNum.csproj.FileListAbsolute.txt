@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddTwoNum.exe
+C:\Users\Home\source\repos\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddTwoNum.deps.json
+C:\Users\Home\source\repos\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddTwoNum.runtimeconfig.json
+C:\Users\Home\source\repos\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddTwoNum.dll
+C:\Users\Home\source\repos\AddTwoNum\AddTwoNum\bin\Debug\net6.0\AddTwoNum.pdb
+C:\Users\Home\source\repos\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddTwoNum.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddTwoNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddTwoNum.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddTwoNum.AssemblyInfo.cs
+C:\Users\Home\source\repos\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddTwoNum.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddTwoNum.dll
+C:\Users\Home\source\repos\AddTwoNum\AddTwoNum\obj\Debug\net6.0\refint\AddTwoNum.dll
+C:\Users\Home\source\repos\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddTwoNum.pdb
+C:\Users\Home\source\repos\AddTwoNum\AddTwoNum\obj\Debug\net6.0\AddTwoNum.genruntimeconfig.cache
+C:\Users\Home\source\repos\AddTwoNum\AddTwoNum\obj\Debug\net6.0\ref\AddTwoNum.dll

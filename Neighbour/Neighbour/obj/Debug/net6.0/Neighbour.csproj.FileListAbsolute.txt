@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\Neighbour\Neighbour\bin\Debug\net6.0\Neighbour.exe
+C:\Users\Home\source\repos\Neighbour\Neighbour\bin\Debug\net6.0\Neighbour.deps.json
+C:\Users\Home\source\repos\Neighbour\Neighbour\bin\Debug\net6.0\Neighbour.runtimeconfig.json
+C:\Users\Home\source\repos\Neighbour\Neighbour\bin\Debug\net6.0\Neighbour.dll
+C:\Users\Home\source\repos\Neighbour\Neighbour\bin\Debug\net6.0\Neighbour.pdb
+C:\Users\Home\source\repos\Neighbour\Neighbour\obj\Debug\net6.0\Neighbour.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Neighbour\Neighbour\obj\Debug\net6.0\Neighbour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\Neighbour\Neighbour\obj\Debug\net6.0\Neighbour.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Neighbour\Neighbour\obj\Debug\net6.0\Neighbour.AssemblyInfo.cs
+C:\Users\Home\source\repos\Neighbour\Neighbour\obj\Debug\net6.0\Neighbour.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Neighbour\Neighbour\obj\Debug\net6.0\Neighbour.dll
+C:\Users\Home\source\repos\Neighbour\Neighbour\obj\Debug\net6.0\refint\Neighbour.dll
+C:\Users\Home\source\repos\Neighbour\Neighbour\obj\Debug\net6.0\Neighbour.pdb
+C:\Users\Home\source\repos\Neighbour\Neighbour\obj\Debug\net6.0\Neighbour.genruntimeconfig.cache
+C:\Users\Home\source\repos\Neighbour\Neighbour\obj\Debug\net6.0\ref\Neighbour.dll

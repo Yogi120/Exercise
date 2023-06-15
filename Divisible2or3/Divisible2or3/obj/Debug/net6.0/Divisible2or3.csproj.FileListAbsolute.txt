@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\Divisible2or3\Divisible2or3\obj\Debug\net6.0\Divisible2or3.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Divisible2or3\Divisible2or3\obj\Debug\net6.0\Divisible2or3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\Divisible2or3\Divisible2or3\obj\Debug\net6.0\Divisible2or3.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Divisible2or3\Divisible2or3\obj\Debug\net6.0\Divisible2or3.AssemblyInfo.cs
+C:\Users\Home\source\repos\Divisible2or3\Divisible2or3\obj\Debug\net6.0\Divisible2or3.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Divisible2or3\Divisible2or3\bin\Debug\net6.0\Divisible2or3.exe
+C:\Users\Home\source\repos\Divisible2or3\Divisible2or3\bin\Debug\net6.0\Divisible2or3.deps.json
+C:\Users\Home\source\repos\Divisible2or3\Divisible2or3\bin\Debug\net6.0\Divisible2or3.runtimeconfig.json
+C:\Users\Home\source\repos\Divisible2or3\Divisible2or3\bin\Debug\net6.0\Divisible2or3.dll
+C:\Users\Home\source\repos\Divisible2or3\Divisible2or3\bin\Debug\net6.0\Divisible2or3.pdb
+C:\Users\Home\source\repos\Divisible2or3\Divisible2or3\obj\Debug\net6.0\Divisible2or3.dll
+C:\Users\Home\source\repos\Divisible2or3\Divisible2or3\obj\Debug\net6.0\refint\Divisible2or3.dll
+C:\Users\Home\source\repos\Divisible2or3\Divisible2or3\obj\Debug\net6.0\Divisible2or3.pdb
+C:\Users\Home\source\repos\Divisible2or3\Divisible2or3\obj\Debug\net6.0\Divisible2or3.genruntimeconfig.cache
+C:\Users\Home\source\repos\Divisible2or3\Divisible2or3\obj\Debug\net6.0\ref\Divisible2or3.dll

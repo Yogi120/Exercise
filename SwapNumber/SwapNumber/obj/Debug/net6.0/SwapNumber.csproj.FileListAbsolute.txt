@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\SwapNumber\SwapNumber\bin\Debug\net6.0\SwapNumber.exe
+C:\Users\Home\source\repos\SwapNumber\SwapNumber\bin\Debug\net6.0\SwapNumber.deps.json
+C:\Users\Home\source\repos\SwapNumber\SwapNumber\bin\Debug\net6.0\SwapNumber.runtimeconfig.json
+C:\Users\Home\source\repos\SwapNumber\SwapNumber\bin\Debug\net6.0\SwapNumber.dll
+C:\Users\Home\source\repos\SwapNumber\SwapNumber\bin\Debug\net6.0\SwapNumber.pdb
+C:\Users\Home\source\repos\SwapNumber\SwapNumber\obj\Debug\net6.0\SwapNumber.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\SwapNumber\SwapNumber\obj\Debug\net6.0\SwapNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\SwapNumber\SwapNumber\obj\Debug\net6.0\SwapNumber.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\SwapNumber\SwapNumber\obj\Debug\net6.0\SwapNumber.AssemblyInfo.cs
+C:\Users\Home\source\repos\SwapNumber\SwapNumber\obj\Debug\net6.0\SwapNumber.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\SwapNumber\SwapNumber\obj\Debug\net6.0\SwapNumber.dll
+C:\Users\Home\source\repos\SwapNumber\SwapNumber\obj\Debug\net6.0\refint\SwapNumber.dll
+C:\Users\Home\source\repos\SwapNumber\SwapNumber\obj\Debug\net6.0\SwapNumber.pdb
+C:\Users\Home\source\repos\SwapNumber\SwapNumber\obj\Debug\net6.0\SwapNumber.genruntimeconfig.cache
+C:\Users\Home\source\repos\SwapNumber\SwapNumber\obj\Debug\net6.0\ref\SwapNumber.dll

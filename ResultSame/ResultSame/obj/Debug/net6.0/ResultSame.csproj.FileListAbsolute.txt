@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\ResultSame\ResultSame\bin\Debug\net6.0\ResultSame.exe
+C:\Users\Home\source\repos\ResultSame\ResultSame\bin\Debug\net6.0\ResultSame.deps.json
+C:\Users\Home\source\repos\ResultSame\ResultSame\bin\Debug\net6.0\ResultSame.runtimeconfig.json
+C:\Users\Home\source\repos\ResultSame\ResultSame\bin\Debug\net6.0\ResultSame.dll
+C:\Users\Home\source\repos\ResultSame\ResultSame\bin\Debug\net6.0\ResultSame.pdb
+C:\Users\Home\source\repos\ResultSame\ResultSame\obj\Debug\net6.0\ResultSame.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\ResultSame\ResultSame\obj\Debug\net6.0\ResultSame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\ResultSame\ResultSame\obj\Debug\net6.0\ResultSame.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\ResultSame\ResultSame\obj\Debug\net6.0\ResultSame.AssemblyInfo.cs
+C:\Users\Home\source\repos\ResultSame\ResultSame\obj\Debug\net6.0\ResultSame.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ResultSame\ResultSame\obj\Debug\net6.0\ResultSame.dll
+C:\Users\Home\source\repos\ResultSame\ResultSame\obj\Debug\net6.0\refint\ResultSame.dll
+C:\Users\Home\source\repos\ResultSame\ResultSame\obj\Debug\net6.0\ResultSame.pdb
+C:\Users\Home\source\repos\ResultSame\ResultSame\obj\Debug\net6.0\ResultSame.genruntimeconfig.cache
+C:\Users\Home\source\repos\ResultSame\ResultSame\obj\Debug\net6.0\ref\ResultSame.dll

@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\Celsius-Fahrenheit\Celsius-Fahrenheit\bin\Debug\net6.0\Celsius-Fahrenheit.exe
+C:\Users\Home\source\repos\Celsius-Fahrenheit\Celsius-Fahrenheit\bin\Debug\net6.0\Celsius-Fahrenheit.deps.json
+C:\Users\Home\source\repos\Celsius-Fahrenheit\Celsius-Fahrenheit\bin\Debug\net6.0\Celsius-Fahrenheit.runtimeconfig.json
+C:\Users\Home\source\repos\Celsius-Fahrenheit\Celsius-Fahrenheit\bin\Debug\net6.0\Celsius-Fahrenheit.dll
+C:\Users\Home\source\repos\Celsius-Fahrenheit\Celsius-Fahrenheit\bin\Debug\net6.0\Celsius-Fahrenheit.pdb
+C:\Users\Home\source\repos\Celsius-Fahrenheit\Celsius-Fahrenheit\obj\Debug\net6.0\Celsius-Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Celsius-Fahrenheit\Celsius-Fahrenheit\obj\Debug\net6.0\Celsius-Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\Celsius-Fahrenheit\Celsius-Fahrenheit\obj\Debug\net6.0\Celsius-Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Celsius-Fahrenheit\Celsius-Fahrenheit\obj\Debug\net6.0\Celsius-Fahrenheit.AssemblyInfo.cs
+C:\Users\Home\source\repos\Celsius-Fahrenheit\Celsius-Fahrenheit\obj\Debug\net6.0\Celsius-Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Celsius-Fahrenheit\Celsius-Fahrenheit\obj\Debug\net6.0\Celsius-Fahrenheit.dll
+C:\Users\Home\source\repos\Celsius-Fahrenheit\Celsius-Fahrenheit\obj\Debug\net6.0\refint\Celsius-Fahrenheit.dll
+C:\Users\Home\source\repos\Celsius-Fahrenheit\Celsius-Fahrenheit\obj\Debug\net6.0\Celsius-Fahrenheit.pdb
+C:\Users\Home\source\repos\Celsius-Fahrenheit\Celsius-Fahrenheit\obj\Debug\net6.0\Celsius-Fahrenheit.genruntimeconfig.cache
+C:\Users\Home\source\repos\Celsius-Fahrenheit\Celsius-Fahrenheit\obj\Debug\net6.0\ref\Celsius-Fahrenheit.dll

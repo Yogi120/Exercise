@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\PosNegZer\PosNegZer\bin\Debug\net6.0\PosNegZer.exe
+C:\Users\Home\source\repos\PosNegZer\PosNegZer\bin\Debug\net6.0\PosNegZer.deps.json
+C:\Users\Home\source\repos\PosNegZer\PosNegZer\bin\Debug\net6.0\PosNegZer.runtimeconfig.json
+C:\Users\Home\source\repos\PosNegZer\PosNegZer\bin\Debug\net6.0\PosNegZer.dll
+C:\Users\Home\source\repos\PosNegZer\PosNegZer\bin\Debug\net6.0\PosNegZer.pdb
+C:\Users\Home\source\repos\PosNegZer\PosNegZer\obj\Debug\net6.0\PosNegZer.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\PosNegZer\PosNegZer\obj\Debug\net6.0\PosNegZer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\PosNegZer\PosNegZer\obj\Debug\net6.0\PosNegZer.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\PosNegZer\PosNegZer\obj\Debug\net6.0\PosNegZer.AssemblyInfo.cs
+C:\Users\Home\source\repos\PosNegZer\PosNegZer\obj\Debug\net6.0\PosNegZer.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\PosNegZer\PosNegZer\obj\Debug\net6.0\PosNegZer.dll
+C:\Users\Home\source\repos\PosNegZer\PosNegZer\obj\Debug\net6.0\refint\PosNegZer.dll
+C:\Users\Home\source\repos\PosNegZer\PosNegZer\obj\Debug\net6.0\PosNegZer.pdb
+C:\Users\Home\source\repos\PosNegZer\PosNegZer\obj\Debug\net6.0\PosNegZer.genruntimeconfig.cache
+C:\Users\Home\source\repos\PosNegZer\PosNegZer\obj\Debug\net6.0\ref\PosNegZer.dll

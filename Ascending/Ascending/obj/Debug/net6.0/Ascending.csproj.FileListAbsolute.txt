@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\Ascending\Ascending\bin\Debug\net6.0\Ascending.exe
+C:\Users\Home\source\repos\Ascending\Ascending\bin\Debug\net6.0\Ascending.deps.json
+C:\Users\Home\source\repos\Ascending\Ascending\bin\Debug\net6.0\Ascending.runtimeconfig.json
+C:\Users\Home\source\repos\Ascending\Ascending\bin\Debug\net6.0\Ascending.dll
+C:\Users\Home\source\repos\Ascending\Ascending\bin\Debug\net6.0\Ascending.pdb
+C:\Users\Home\source\repos\Ascending\Ascending\obj\Debug\net6.0\Ascending.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Ascending\Ascending\obj\Debug\net6.0\Ascending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\Ascending\Ascending\obj\Debug\net6.0\Ascending.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Ascending\Ascending\obj\Debug\net6.0\Ascending.AssemblyInfo.cs
+C:\Users\Home\source\repos\Ascending\Ascending\obj\Debug\net6.0\Ascending.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Ascending\Ascending\obj\Debug\net6.0\Ascending.dll
+C:\Users\Home\source\repos\Ascending\Ascending\obj\Debug\net6.0\refint\Ascending.dll
+C:\Users\Home\source\repos\Ascending\Ascending\obj\Debug\net6.0\Ascending.pdb
+C:\Users\Home\source\repos\Ascending\Ascending\obj\Debug\net6.0\Ascending.genruntimeconfig.cache
+C:\Users\Home\source\repos\Ascending\Ascending\obj\Debug\net6.0\ref\Ascending.dll

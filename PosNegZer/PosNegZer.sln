@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosNegZer", "PosNegZer\PosNegZer.csproj", "{F194E2CC-1B28-4C6F-9300-C4734346AE41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F194E2CC-1B28-4C6F-9300-C4734346AE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F194E2CC-1B28-4C6F-9300-C4734346AE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F194E2CC-1B28-4C6F-9300-C4734346AE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F194E2CC-1B28-4C6F-9300-C4734346AE41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02BB8F0C-8624-42A9-875A-B20F4EFECA03}
+	EndGlobalSection
+EndGlobal
